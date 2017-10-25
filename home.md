@@ -1,4 +1,6 @@
 <!-- TITLE: UniSharp's Wiki -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Welcome to UniSharp's Wiki -->
 
 # UniSharp's Wiki
+
+Welcome to UniSharp's Wiki
