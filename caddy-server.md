@@ -12,7 +12,7 @@ https://github.com/mholt/caddy/tree/master/dist/init/linux-upstart
 https://github.com/mholt/caddy/tree/master/dist/init/linux-systemd
 
 
-## Run caddy without port 80
+## Run caddy on port 443 only
 
 當 80 port 在 run 本來的 nginx，不想要關掉時。
 
