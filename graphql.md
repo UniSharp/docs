@@ -1,4 +1,4 @@
-<!-- TITLE: Graph Ql -->
+<!-- TITLE: Graph QL -->
 <!-- SUBTITLE: A quick summary of Graph Ql -->
 
 # GraphQL
