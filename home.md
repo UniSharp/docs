@@ -19,8 +19,7 @@ Thanks to all the contributors for writting all these Internet resources, we sav
 
 這樣子就更加速地讓世界更好了。
 
-而這也成為了 [UniSharp 的開放文化](https://blog.unisharp.com/2017/06/05/%E7%94%B1%E5%85%A7%E8%80%8C%E5%A4%96%E6%89%93%E9%80%A0%E4%BC%81%E6%A5%AD%E9%96%8B%E6%BA%90%E6%96%87%E5%8C%96/)
-的一部分。
+而這也成為了 [UniSharp 的開放文化](https://blog.unisharp.com/2017/06/05/%E7%94%B1%E5%85%A7%E8%80%8C%E5%A4%96%E6%89%93%E9%80%A0%E4%BC%81%E6%A5%AD%E9%96%8B%E6%BA%90%E6%96%87%E5%8C%96/) 的一部分。
  
 
 
