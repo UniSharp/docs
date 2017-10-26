@@ -29,7 +29,7 @@ https://example.com:443 {
 
 因此啟動時，多加上 `-disable-http-challenge -http-port 8080` 即可（可使用任意 port，因為我們也不使用它）
 
-disable-http-challenge 官方說明如下：
+`disable-http-challenge` 官方說明如下：
 
 > Disables the ACME HTTP challenge used for obtaining certificates.
 
