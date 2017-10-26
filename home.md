@@ -2,9 +2,6 @@
 <!-- SUBTITLE: Welcome to UniSharp's Public Wiki -->
 
 # UniSharp's Public Wiki - The Open Document Project
-
-![Vim Cheat Sheet For Programmers Print](/uploads/test/vim-cheat-sheet-for-programmers-print.png "Vim Cheat Sheet For Programmers Print")
-
 ## UniSharp 開放文件計劃
 
 為什麼有這份 Wiki
