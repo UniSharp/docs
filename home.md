@@ -7,8 +7,8 @@
 為什麼有這份 Wiki
 Why is this wiki
 
-過們過去將工作上有價值的技術筆記，記錄於私有的平臺，分享給公司內的成員。
-We used to write our techinical notes on a private platform and shareing them to our team members internally. 
+過們過去將工作上有價值的筆記，記錄於私有的平臺，分享給公司內的成員。
+We used to write our work notes on a private platform and shareing them to our team members internally. 
 
 大部分的筆記是來自於 Internet，少數來自我們的經驗。
 Most of these notes are resources from the Internet, few of them are from our own experences.
