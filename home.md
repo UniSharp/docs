@@ -1,9 +1,27 @@
 <!-- TITLE: UniSharp's Wiki -->
-<!-- SUBTITLE: Welcome to UniSharp's Wiki -->
+<!-- SUBTITLE: Welcome to UniSharp's Public Wiki -->
 
-# UniSharp's Wiki
+# UniSharp's Public Wiki
+為什麼有這份 Wiki
+Why is this wiki
 
-Welcome to UniSharp's Wiki
+過們過去將工作上有價值的技術筆記，記錄於私有的平臺，分享給公司內的成員。
+We used to write our techinical notes on a private platform and shareing them to our team members internally. 
+
+大部分的筆記是來自於 Internet，少數來自我們的經驗。
+Most of these notes are resources gathered from the Internet, few of them are from our own experences.
+
+感謝前人的無私分享，我們得以省去大把地學習、嘗試錯誤的成本，專注往下一步的價值邁進。
+Thanks to all the contributors for writting all these Internet resources, we saved a lot of time from learning and try & error. We can now focus on the next valuable thing.
+
+所以我們想：「為什麼我們不直接公開地寫筆記，並且讓其他人可以一起協作呢？」
+"Why not start writting our notes in public? And then the others can cooperate with us."
+
+這樣子就更加速地讓世界更好了。
+
+而這也成為了 [UniSharp 的開放文化](https://blog.unisharp.com/2017/06/05/%E7%94%B1%E5%85%A7%E8%80%8C%E5%A4%96%E6%89%93%E9%80%A0%E4%BC%81%E6%A5%AD%E9%96%8B%E6%BA%90%E6%96%87%E5%8C%96/)
+ 的一部分。
+ 
 
 
 - [Stress Test](stress-test)
