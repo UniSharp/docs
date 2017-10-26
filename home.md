@@ -11,7 +11,7 @@ We used to write our techinical notes on a private platform and shareing them to
 大部分的筆記是來自於 Internet，少數來自我們的經驗。
 Most of these notes are resources from the Internet, few of them are from our own experences.
 
-感謝前人的無私分享，我們得以省去大把地學習、嘗試錯誤的成本，專注往下一步的價值邁進。
+感謝這些無私的貢獻者，我們得以省去大把地學習、嘗試錯誤的成本，專注往下一步的價值邁進。
 Thanks to all the contributors, we saved a lot of time from learning and try & error. We can now focus on the next valuable thing.
 
 所以我們想：「為什麼我們不直接公開地寫筆記，並且讓其他人可以一起協作呢？」
