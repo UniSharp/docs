@@ -38,6 +38,7 @@ Reference: https://github.com/mholt/caddy/issues/468
 
 ## Caddyfile for Laravel Development (fastcgi)
 
+
 ```
 localhost:8000 {
     tls off
