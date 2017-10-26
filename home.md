@@ -27,6 +27,7 @@ Thanks to all the contributors, we saved a lot of time from learning and try & e
 
 ## Main Categories
 - [GraphQL](GraphQL)
+- [Open API Spec 3.0](open-api-spec-3)
 - [Laravel](laravel-web-framework)
 - [Swoole PHP Extension](swoole-php-extension)
 - Web Servers
