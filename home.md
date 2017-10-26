@@ -7,3 +7,4 @@ Welcome to UniSharp's Wiki
 
 
 - [Stress Test](stress-test)
+- [GraphQL](GraphQL)
