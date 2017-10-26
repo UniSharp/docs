@@ -9,7 +9,7 @@ Why is this wiki
 We used to write our techinical notes on a private platform and shareing them to our team members internally. 
 
 大部分的筆記是來自於 Internet，少數來自我們的經驗。
-Most of these notes are resources gathered from the Internet, few of them are from our own experences.
+Most of these notes are resources comming from the Internet, few of them are from our own experences.
 
 感謝前人的無私分享，我們得以省去大把地學習、嘗試錯誤的成本，專注往下一步的價值邁進。
 Thanks to all the contributors for writting all these Internet resources, we saved a lot of time from learning and try & error. We can now focus on the next valuable thing.
