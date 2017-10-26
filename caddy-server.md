@@ -34,3 +34,26 @@ disable-http-challenge 官方說明如下：
 > Disables the ACME HTTP challenge used for obtaining certificates.
 
 Reference: https://github.com/mholt/caddy/issues/468
+
+
+## Caddyfile for Laravel Development (fastcgi)
+
+```
+localhost:8000 {
+    tls off
+    root ./public
+    log ./storage/logs/caddy-access.log
+    errors ./storage/logs/caddy-error.log
+	  limits 10m
+
+    fastcgi / 127.0.0.1:9000 php {
+        index index.php
+        # 也可以限定路徑
+        # path /api
+    }
+
+    rewrite {
+        to {path} {path}/ /index.php?{query}
+    }
+}
+```
