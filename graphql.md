@@ -33,6 +33,8 @@ yarn add graphcool
 # choose local docker
 ```
 
+output 
+
 ```
 Here are your GraphQL Endpoints:
 
