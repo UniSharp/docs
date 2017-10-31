@@ -14,7 +14,7 @@ We used to write our work notes on a private platform and sharing them to our te
 Most of these notes are resources from the Internet, few of them are from our own experences.
 
 感謝這些無私的貢獻者，我們得以省去大把地學習、嘗試錯誤的成本，專注往下一步的價值邁進。
-Thanks to all the contributors, we saved a lot of time from learning and try & error. We can now focus on the next valuable thing.
+Thanks to all the contributors, we saved a lot of time from learning and trial & error. We can now focus on the next valuable thing.
 
 所以我們想：「為什麼我們不直接公開地寫筆記，並且讓其他人可以一起協作呢？」
 "Why not start writting our notes in public? And then the others can cooperate with us."
