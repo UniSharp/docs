@@ -1,7 +1,7 @@
 <!-- TITLE: Nginx Server -->
 <!-- SUBTITLE: A quick summary of Nginx Server -->
 
-# Header
+# Snippets
 
 ## Example of wildcard (regular expression) server_name matching
 
