@@ -22,6 +22,7 @@ server {
 }
 ```
 
+----
 # Checking
 ## with openssl s_client
 
