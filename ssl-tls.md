@@ -1,6 +1,27 @@
 <!-- TITLE: Ssl Tls -->
 <!-- SUBTITLE: A quick summary of Ssl Tls -->
 
+
+# 憑證申請、設定
+大略步驟
+
+1. 產生 server key 與 CSR，將 CSR 寄給憑證機構
+2. 憑證機構寄回 certificate (cer / crt)
+3. 憑證機構有時會同時寄回中繼憑證，或自行從網站上下載
+4. 將中繼憑證與 certificate concat 成 pem 格式
+5. 將中繼憑證、certificate 與 server key 設定在 server 上
+
+nginx 的設定範例
+
+```
+server {
+      listen 443 ssl;
+        server_name your_domain.com;
+        ssl_certificate /etc/nginx/ssl/nginx.crt; # => 這裡把中繼憑證與 cerficate concat 起來（如是 self-sign 則不用）
+        ssl_certificate_key /etc/nginx/ssl/nginx.key;
+}
+```
+
 # Checking
 ## with openssl s_client
 
